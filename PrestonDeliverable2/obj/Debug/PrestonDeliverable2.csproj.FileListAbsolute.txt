@@ -1,0 +1,7 @@
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable2\PrestonDeliverable2\obj\Debug\PrestonDeliverable2.csproj.AssemblyReference.cache
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable2\PrestonDeliverable2\obj\Debug\PrestonDeliverable2.csproj.CoreCompileInputs.cache
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable2\PrestonDeliverable2\bin\Debug\PrestonDeliverable2.exe.config
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable2\PrestonDeliverable2\bin\Debug\PrestonDeliverable2.exe
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable2\PrestonDeliverable2\bin\Debug\PrestonDeliverable2.pdb
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable2\PrestonDeliverable2\obj\Debug\PrestonDeliverable2.exe
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable2\PrestonDeliverable2\obj\Debug\PrestonDeliverable2.pdb
